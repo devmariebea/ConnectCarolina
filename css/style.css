@@ -1,0 +1,12 @@
+html,body{
+	background-image: url("../img/geometry.png");
+	background-repeat: repeat;
+	padding-top: 25px; 
+
+}
+.navbar {
+background-color: #56A0D3;
+}
+.navbar-default .navbar-brand{
+	color: #eeeeee;
+}
